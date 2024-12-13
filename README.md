@@ -1,3 +1,3 @@
-# MY GOLANG BLOG
+# My Golang Blog
 
 ## gin
